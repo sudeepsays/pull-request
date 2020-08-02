@@ -1,0 +1,2 @@
+Newly created file in feature 1 branch
+Changed the new feature
